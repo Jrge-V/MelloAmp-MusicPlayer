@@ -1,3 +1,5 @@
 # MELLO AMP
 
-- Music Player with the purpose of only playing DMCA free music.
+### Mello Amp's Purpose:
+
+- Purpose of our music player is to create a friendly music player to stream non-copyrighted music
